@@ -14,4 +14,19 @@ Other learning objectives:
 - Best Practices and Organisation
 
 ### Definitions
-These we will add as we progress.
+#### Class
+Class is a blueprint for objects.
+Inside we define objects characteristics and behaviours
+With classes you can create instances of that class.
+
+#### Instance
+
+instances are the occurence of an object of a specific
+class
+
+#### Method
+Method is a function wrapped inside a specific class.
+
+#### \__init\_\_
+init method, runs every time you initialize/create an object class.
+AKA: constructure Method
