@@ -1,2 +1,4 @@
 .idea/
 venv/
+scraps.py
+secret_keys
